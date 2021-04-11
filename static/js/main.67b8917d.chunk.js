@@ -1,0 +1,2 @@
+(this.webpackJsonpnetgate=this.webpackJsonpnetgate||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var c=n(0),r=(n(1),n(3));function o(){return Object(c.jsx)("p",{children:"Welcome To Netgate"})}function s(){return Object(c.jsx)(o,{})}Object(r.render)(Object(c.jsx)(s,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.67b8917d.chunk.js.map
